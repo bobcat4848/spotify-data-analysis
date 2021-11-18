@@ -3,7 +3,7 @@
 # spotify-data-analysis
 
 ### Introduction
-This purpose of this repository is to host all the data analysis that was done on the spotify dataset provided by Kaggle here: https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021
+This purpose of this repository is to host all the data analysis that was done on the spotify dataset provided by Kaggle [here](https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021).
 
 To see the python code see the [spotify.ipynb file](https://github.com/bobcat4848/spotify-data-analysis/blob/main/spotify.ipynb) in this repository.
 
